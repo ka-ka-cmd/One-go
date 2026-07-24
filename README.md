@@ -1,2 +1,2 @@
-# one-step
-One Step update channel
+# One go
+One go update channel
