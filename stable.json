@@ -1,0 +1,8 @@
+{
+  "version": "1.2.1",
+  "installerUrl": "https://github.com/ka-ka-cmd/yibu-update/releases/download/v1.2.1/One go-1.2.1-x64.exe",
+  "sha256": "4E1C3547EA2E10FF415E16BC8CBDD0B7A5C7C6B6EA6D76161D21A99A7E5D2738",
+  "releaseNotes": "优化批量导入和导出性能。新增支持MOV格式，仅接收 1080×1080、1080×1920、1080×2160、1080×3840。根据视频时长动态控制成品体积，超限自动重新编码。
+双版本文件自动命名为 _h264.mp4、_h265.mp4",
+  "mandatory": false
+}
